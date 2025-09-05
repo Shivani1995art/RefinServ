@@ -7,11 +7,22 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		0C80B921A6F3F58F76C31292 /* libPods-RefinservApp.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 5DCACB8F33CDC322A6C60F78 /* libPods-RefinservApp.a */; };
+		0D042DD51FAB4D17BB423E79 /* Outfit-Black.ttf in Resources */ = {isa = PBXBuildFile; fileRef = B22B26815A544B01A831B7A5 /* Outfit-Black.ttf */; };
+		0FA8E94D82014014AB0C26C4 /* Outfit-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 31B25AF47BEC4B74986437B6 /* Outfit-Bold.ttf */; };
 		13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
+		25698045AACD436F81D0302B /* Outfit-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = D7DECBCC8D1245999A0531C1 /* Outfit-Medium.ttf */; };
 		31544ABAA819F9CA5FBA6F96 /* PrivacyInfo.xcprivacy in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB81A68108700A75B9A /* PrivacyInfo.xcprivacy */; };
+		5AE1A0B341194F45BD5F6FFF /* Outfit-SemiBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 87DE0177F5B7478AA7D00A64 /* Outfit-SemiBold.ttf */; };
+		601D97420415498A8E77B3FD /* Outfit-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = AE747712980E4ABBA1C1C374 /* Outfit-Light.ttf */; };
+		64AB98851BC345678C75E4B8 /* Colors.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 20DD6CED17774F1EA2C60F72 /* Colors.xcassets */; };
+		74D5F28212BC41F1B11CA143 /* Outfit-ExtraLight.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 421A4BCEACE949AC8FDA4C18 /* Outfit-ExtraLight.ttf */; };
 		761780ED2CA45674006654EE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 761780EC2CA45674006654EE /* AppDelegate.swift */; };
 		81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */; };
+		A433B248E8D64D7CB0508D89 /* Outfit-ExtraBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = E040B244D99347358B472130 /* Outfit-ExtraBold.ttf */; };
+		C2CB16F287C448F3ABFA1D00 /* Outfit-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 64064C7439E24940804A63C4 /* Outfit-Regular.ttf */; };
+		D901E3AAFAF96FA9C17AA791 /* libPods-RefinservApp.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 61DE376C1C2733BACEAF6671 /* libPods-RefinservApp.a */; };
+		F66A8CD1872C438CA032FDEC /* BootSplash.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C5E73ABA71E0418DB8FCCBC0 /* BootSplash.storyboard */; };
+		FE627B71D29D46ADB16B108B /* Outfit-Thin.ttf in Resources */ = {isa = PBXBuildFile; fileRef = D552AF8618174371B8AB22CF /* Outfit-Thin.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,12 +30,23 @@
 		13B07FB51A68108700A75B9A /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Images.xcassets; path = RefinservApp/Images.xcassets; sourceTree = "<group>"; };
 		13B07FB61A68108700A75B9A /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = RefinservApp/Info.plist; sourceTree = "<group>"; };
 		13B07FB81A68108700A75B9A /* PrivacyInfo.xcprivacy */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = PrivacyInfo.xcprivacy; path = RefinservApp/PrivacyInfo.xcprivacy; sourceTree = "<group>"; };
-		3B4392A12AC88292D35C810B /* Pods-RefinservApp.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-RefinservApp.debug.xcconfig"; path = "Target Support Files/Pods-RefinservApp/Pods-RefinservApp.debug.xcconfig"; sourceTree = "<group>"; };
-		5709B34CF0A7D63546082F79 /* Pods-RefinservApp.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-RefinservApp.release.xcconfig"; path = "Target Support Files/Pods-RefinservApp/Pods-RefinservApp.release.xcconfig"; sourceTree = "<group>"; };
-		5DCACB8F33CDC322A6C60F78 /* libPods-RefinservApp.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-RefinservApp.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		20DD6CED17774F1EA2C60F72 /* Colors.xcassets */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = folder.assetcatalog; name = Colors.xcassets; path = RefinservApp/Colors.xcassets; sourceTree = "<group>"; };
+		31B25AF47BEC4B74986437B6 /* Outfit-Bold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "Outfit-Bold.ttf"; path = "../src/assets/fonts/Outfit-Bold.ttf"; sourceTree = "<group>"; };
+		421A4BCEACE949AC8FDA4C18 /* Outfit-ExtraLight.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "Outfit-ExtraLight.ttf"; path = "../src/assets/fonts/Outfit-ExtraLight.ttf"; sourceTree = "<group>"; };
+		61DE376C1C2733BACEAF6671 /* libPods-RefinservApp.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-RefinservApp.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		64064C7439E24940804A63C4 /* Outfit-Regular.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "Outfit-Regular.ttf"; path = "../src/assets/fonts/Outfit-Regular.ttf"; sourceTree = "<group>"; };
 		761780EC2CA45674006654EE /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = AppDelegate.swift; path = RefinservApp/AppDelegate.swift; sourceTree = "<group>"; };
 		81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = RefinservApp/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		87DE0177F5B7478AA7D00A64 /* Outfit-SemiBold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "Outfit-SemiBold.ttf"; path = "../src/assets/fonts/Outfit-SemiBold.ttf"; sourceTree = "<group>"; };
+		AE747712980E4ABBA1C1C374 /* Outfit-Light.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "Outfit-Light.ttf"; path = "../src/assets/fonts/Outfit-Light.ttf"; sourceTree = "<group>"; };
+		B22B26815A544B01A831B7A5 /* Outfit-Black.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "Outfit-Black.ttf"; path = "../src/assets/fonts/Outfit-Black.ttf"; sourceTree = "<group>"; };
+		C5E73ABA71E0418DB8FCCBC0 /* BootSplash.storyboard */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = BootSplash.storyboard; path = RefinservApp/BootSplash.storyboard; sourceTree = "<group>"; };
+		D552AF8618174371B8AB22CF /* Outfit-Thin.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "Outfit-Thin.ttf"; path = "../src/assets/fonts/Outfit-Thin.ttf"; sourceTree = "<group>"; };
+		D7DECBCC8D1245999A0531C1 /* Outfit-Medium.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "Outfit-Medium.ttf"; path = "../src/assets/fonts/Outfit-Medium.ttf"; sourceTree = "<group>"; };
+		DBD5CE2D1FEEA2332E008C1F /* Pods-RefinservApp.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-RefinservApp.debug.xcconfig"; path = "Target Support Files/Pods-RefinservApp/Pods-RefinservApp.debug.xcconfig"; sourceTree = "<group>"; };
+		E040B244D99347358B472130 /* Outfit-ExtraBold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "Outfit-ExtraBold.ttf"; path = "../src/assets/fonts/Outfit-ExtraBold.ttf"; sourceTree = "<group>"; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
+		F7467AE6DA940C1EA85B108C /* Pods-RefinservApp.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-RefinservApp.release.xcconfig"; path = "Target Support Files/Pods-RefinservApp/Pods-RefinservApp.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -32,7 +54,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				0C80B921A6F3F58F76C31292 /* libPods-RefinservApp.a in Frameworks */,
+				D901E3AAFAF96FA9C17AA791 /* libPods-RefinservApp.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -47,6 +69,8 @@
 				13B07FB61A68108700A75B9A /* Info.plist */,
 				81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */,
 				13B07FB81A68108700A75B9A /* PrivacyInfo.xcprivacy */,
+				C5E73ABA71E0418DB8FCCBC0 /* BootSplash.storyboard */,
+				20DD6CED17774F1EA2C60F72 /* Colors.xcassets */,
 			);
 			name = RefinservApp;
 			sourceTree = "<group>";
@@ -55,9 +79,26 @@
 			isa = PBXGroup;
 			children = (
 				ED297162215061F000B7C4FE /* JavaScriptCore.framework */,
-				5DCACB8F33CDC322A6C60F78 /* libPods-RefinservApp.a */,
+				61DE376C1C2733BACEAF6671 /* libPods-RefinservApp.a */,
 			);
 			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		2F85F3D3001F438EBA5B822F /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				B22B26815A544B01A831B7A5 /* Outfit-Black.ttf */,
+				31B25AF47BEC4B74986437B6 /* Outfit-Bold.ttf */,
+				E040B244D99347358B472130 /* Outfit-ExtraBold.ttf */,
+				421A4BCEACE949AC8FDA4C18 /* Outfit-ExtraLight.ttf */,
+				AE747712980E4ABBA1C1C374 /* Outfit-Light.ttf */,
+				D7DECBCC8D1245999A0531C1 /* Outfit-Medium.ttf */,
+				64064C7439E24940804A63C4 /* Outfit-Regular.ttf */,
+				87DE0177F5B7478AA7D00A64 /* Outfit-SemiBold.ttf */,
+				D552AF8618174371B8AB22CF /* Outfit-Thin.ttf */,
+			);
+			name = Resources;
+			path = "";
 			sourceTree = "<group>";
 		};
 		832341AE1AAA6A7D00B99B32 /* Libraries */ = {
@@ -75,6 +116,7 @@
 				83CBBA001A601CBA00E9B192 /* Products */,
 				2D16E6871FA4F8E400B85C8A /* Frameworks */,
 				BBD78D7AC51CEA395F1C20DB /* Pods */,
+				2F85F3D3001F438EBA5B822F /* Resources */,
 			);
 			indentWidth = 2;
 			sourceTree = "<group>";
@@ -92,8 +134,8 @@
 		BBD78D7AC51CEA395F1C20DB /* Pods */ = {
 			isa = PBXGroup;
 			children = (
-				3B4392A12AC88292D35C810B /* Pods-RefinservApp.debug.xcconfig */,
-				5709B34CF0A7D63546082F79 /* Pods-RefinservApp.release.xcconfig */,
+				DBD5CE2D1FEEA2332E008C1F /* Pods-RefinservApp.debug.xcconfig */,
+				F7467AE6DA940C1EA85B108C /* Pods-RefinservApp.release.xcconfig */,
 			);
 			path = Pods;
 			sourceTree = "<group>";
@@ -105,13 +147,13 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 13B07F931A680F5B00A75B9A /* Build configuration list for PBXNativeTarget "RefinservApp" */;
 			buildPhases = (
-				C38B50BA6285516D6DCD4F65 /* [CP] Check Pods Manifest.lock */,
+				CDE41986288408E9EF4F6B62 /* [CP] Check Pods Manifest.lock */,
 				13B07F871A680F5B00A75B9A /* Sources */,
 				13B07F8C1A680F5B00A75B9A /* Frameworks */,
 				13B07F8E1A680F5B00A75B9A /* Resources */,
 				00DD1BFF1BD5951E006B06BC /* Bundle React Native code and images */,
-				00EEFC60759A1932668264C0 /* [CP] Embed Pods Frameworks */,
-				E235C05ADACE081382539298 /* [CP] Copy Pods Resources */,
+				3F2A2D057C3F0D4897438C76 /* [CP] Embed Pods Frameworks */,
+				A6E13AB6DE7E4CEF20744641 /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -161,6 +203,17 @@
 				81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */,
 				13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */,
 				31544ABAA819F9CA5FBA6F96 /* PrivacyInfo.xcprivacy in Resources */,
+				0D042DD51FAB4D17BB423E79 /* Outfit-Black.ttf in Resources */,
+				0FA8E94D82014014AB0C26C4 /* Outfit-Bold.ttf in Resources */,
+				A433B248E8D64D7CB0508D89 /* Outfit-ExtraBold.ttf in Resources */,
+				74D5F28212BC41F1B11CA143 /* Outfit-ExtraLight.ttf in Resources */,
+				601D97420415498A8E77B3FD /* Outfit-Light.ttf in Resources */,
+				25698045AACD436F81D0302B /* Outfit-Medium.ttf in Resources */,
+				C2CB16F287C448F3ABFA1D00 /* Outfit-Regular.ttf in Resources */,
+				5AE1A0B341194F45BD5F6FFF /* Outfit-SemiBold.ttf in Resources */,
+				FE627B71D29D46ADB16B108B /* Outfit-Thin.ttf in Resources */,
+				F66A8CD1872C438CA032FDEC /* BootSplash.storyboard in Resources */,
+				64AB98851BC345678C75E4B8 /* Colors.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -183,7 +236,7 @@
 			shellPath = /bin/sh;
 			shellScript = "set -e\n\nWITH_ENVIRONMENT=\"$REACT_NATIVE_PATH/scripts/xcode/with-environment.sh\"\nREACT_NATIVE_XCODE=\"$REACT_NATIVE_PATH/scripts/react-native-xcode.sh\"\n\n/bin/sh -c \"$WITH_ENVIRONMENT $REACT_NATIVE_XCODE\"\n";
 		};
-		00EEFC60759A1932668264C0 /* [CP] Embed Pods Frameworks */ = {
+		3F2A2D057C3F0D4897438C76 /* [CP] Embed Pods Frameworks */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -200,7 +253,24 @@
 			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-RefinservApp/Pods-RefinservApp-frameworks.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
-		C38B50BA6285516D6DCD4F65 /* [CP] Check Pods Manifest.lock */ = {
+		A6E13AB6DE7E4CEF20744641 /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-RefinservApp/Pods-RefinservApp-resources-${CONFIGURATION}-input-files.xcfilelist",
+			);
+			name = "[CP] Copy Pods Resources";
+			outputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-RefinservApp/Pods-RefinservApp-resources-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-RefinservApp/Pods-RefinservApp-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		CDE41986288408E9EF4F6B62 /* [CP] Check Pods Manifest.lock */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -222,23 +292,6 @@
 			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
 			showEnvVarsInLog = 0;
 		};
-		E235C05ADACE081382539298 /* [CP] Copy Pods Resources */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-RefinservApp/Pods-RefinservApp-resources-${CONFIGURATION}-input-files.xcfilelist",
-			);
-			name = "[CP] Copy Pods Resources";
-			outputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-RefinservApp/Pods-RefinservApp-resources-${CONFIGURATION}-output-files.xcfilelist",
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-RefinservApp/Pods-RefinservApp-resources.sh\"\n";
-			showEnvVarsInLog = 0;
-		};
 /* End PBXShellScriptBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
@@ -255,7 +308,7 @@
 /* Begin XCBuildConfiguration section */
 		13B07F941A680F5B00A75B9A /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 3B4392A12AC88292D35C810B /* Pods-RefinservApp.debug.xcconfig */;
+			baseConfigurationReference = DBD5CE2D1FEEA2332E008C1F /* Pods-RefinservApp.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
@@ -283,7 +336,7 @@
 		};
 		13B07F951A680F5B00A75B9A /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 5709B34CF0A7D63546082F79 /* Pods-RefinservApp.release.xcconfig */;
+			baseConfigurationReference = F7467AE6DA940C1EA85B108C /* Pods-RefinservApp.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
